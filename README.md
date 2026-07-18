@@ -1,74 +1,72 @@
-```json
-{
-  "name": "Meer Tazbid Hossain",
-  "role": "Software Engineer · Backend / Full-stack",
-  "focus": ["Laravel", "REST APIs", "multi-tenant systems"],
-  "location": "Chittagong, Bangladesh",
-  "open_to": "Software Engineer roles",
-  "contact": {
-    "email": "tazbidhossain@gmail.com",
-    "portfolio": "https://tazbid.github.io",
-    "linkedin": "https://www.linkedin.com/in/tazbid-hossain-259854207/",
-    "github": "https://github.com/tazbid"
-  }
-}
-```
+# Meer Tazbid Hossain
 
-I build backends that stay calm when tenants, payments, and third-party APIs all hit at once. Most of my work lives in **PHP / Laravel** — scalable APIs, multi-tenant data isolation, and systems that frontend teams can actually integrate against.
+**Software Engineer** specializing in backend development with PHP and Laravel.
+
+I design and maintain REST APIs, multi-tenant systems, and full-stack web applications. My work focuses on reliable data handling, clear API design, and features that support real business workflows.
+
+📍 Chittagong, Bangladesh  
+🔗 [Portfolio](https://tazbid.github.io) · [LinkedIn](https://www.linkedin.com/in/tazbid-hossain-259854207/) · [Email](mailto:tazbidhossain@gmail.com)
 
 ---
 
-### How I think about multi-tenant systems
+## What I work with
 
-```
-  Tenant A ──┐
-  Tenant B ──┼──►  Laravel API  ──►  MySQL (isolated data)
-  Tenant C ──┘         │
-                       ├──►  Redis / cache & queues
-                       └──►  Swagger docs for consumers
-```
-
-Drawn from real production work: shared platform, strict isolation, performance under load.
+- **Languages & frameworks:** PHP, Laravel, JavaScript, Vue.js
+- **APIs & architecture:** REST APIs, MVC, ORM, Swagger
+- **Databases:** MySQL, MS SQL Server, SQLite, Redis
+- **Tools & infrastructure:** Docker, Git, Nginx, Apache, Postman, Composer, Stripe
 
 ---
 
-### Selected work
+## Experience
 
-#### Real Estate Management System
-**Problem:** A US client needed one platform for many tenants without leaking data between them.  
-**Approach:** Multi-tenant, multi-database architecture on Laravel + MySQL; APIs tuned for isolation, reliability, and scale.  
-**Outcome:** End-to-end real estate operations on a shared core with tenant-safe data boundaries.
+### Assistant Software Engineer — BluBird Interactive Ltd.
+*August 2024 – May 2026*
 
-#### Payslip Generation App
-**Problem:** A French client needed accurate, compliant payroll slip generation.  
-**Approach:** Laravel backend APIs + MySQL; responsive Vue.js frontend for a clear, usable flow.  
-**Outcome:** Secure processing path from data → slip, with clean separation between UI and API layers.
+Maintained and improved RESTful APIs, fixed bugs, optimized performance, and added new features. Also worked on system updates, third-party API integrations, and regulatory compliance.
 
-#### CS:GO Skins Trading Marketplace
-**Problem:** Third-party skin trading via bots needed reliable transactions and a clear API surface.  
-**Approach:** Laravel + MySQL APIs; Swagger documentation so frontend and integrations stay aligned.  
-**Outcome:** Marketplace backend with documented contracts and steadier transaction handling.
+### Junior Software Engineer — Annonlab
+*June 2022 – August 2024*
 
----
+Built REST APIs for web applications, supported the frontend team with bug fixes, and maintained a PHP–JavaScript project that used an XML API.
 
-### Stack I actually use
+### Junior Software Engineer — CodersLab
+*April 2021 – April 2022 · Part-time*
 
-**Core:** PHP · Laravel · MySQL · JavaScript · Vue.js  
-**Also:** REST APIs · ORM · Swagger · Redis · Docker · Nginx · Apache · Git · Postman · Stripe · Composer  
-**Databases I've worked with:** MySQL · MS SQL Server · SQLite
+Built web applications with Laravel and Blade, and developed JSON APIs for web apps.
 
 ---
 
-### Path so far
+## Projects
 
-| Period | Role | Focus |
-|--------|------|--------|
-| Aug 2024 – May 2026 | Assistant Software Engineer · BluBird Interactive | REST APIs, performance, third-party integrations |
-| Jun 2022 – Aug 2024 | Junior Software Engineer · Annonlab | REST APIs, PHP–JS maintenance, frontend support |
-| Apr 2021 – Apr 2022 | Junior Software Engineer · CodersLab | Laravel, Blade, JSON APIs |
+### Real Estate Management System
+Built backend APIs for a multi-tenant, multi-database real estate platform for a US-based client. Focused on performance, data isolation between tenants, and system reliability using **Laravel** and **MySQL**.
+
+### Payslip Generation App
+Developed a payslip and salary slip system for a French client. Built the backend with **Laravel** and **MySQL**, and the frontend with **Vue.js**, with an emphasis on accurate and secure payroll processing.
+
+### CS:GO Skins Trading Marketplace
+Worked on a marketplace for trading CS:GO skins through automated bots. Developed backend APIs with **Laravel** and **MySQL**, and wrote **Swagger** documentation to make integration easier for frontend developers.
+
+### Other work
+- **Email Marketing System** — maintenance and enhancements with PHP, JavaScript, and MySQL  
+- **Day-care Management System** — child activities, contracts, and operations with PHP, jQuery, and MySQL  
+- **Clinic Management System** — 20+ modules for healthcare workflows with Laravel, HTML/CSS/JavaScript, and MySQL  
 
 ---
 
-### Elsewhere
+## Education
 
-[Portfolio](https://tazbid.github.io) · [LinkedIn](https://www.linkedin.com/in/tazbid-hossain-259854207/) · [Email](mailto:tazbidhossain@gmail.com) · [GitHub](https://github.com/tazbid)
+**B.Sc. in Computer Science and Engineering**  
+International Islamic University Chittagong · 2018 – 2022 · CGPA 3.44
+
+---
+
+## Get in touch
+
+I'm open to **Software Engineer** opportunities.
+
+- Email: [tazbidhossain@gmail.com](mailto:tazbidhossain@gmail.com)
+- Portfolio: [tazbid.github.io](https://tazbid.github.io)
+- LinkedIn: [tazbid-hossain](https://www.linkedin.com/in/tazbid-hossain-259854207/)
+- GitHub: [github.com/tazbid](https://github.com/tazbid)
