@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meer Tazbid Hossain</h1>
-<h3 align="center">Assistant Software Engineer at <a href="https://blubirdinteractive.com/">BluBird Interactive Ltd.</a> | Laravel & REST API Developer</h3>
+<h3 align="center">Software Engineer | Laravel & REST API Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbid&label=Profile%20views&color=0e75b6&style=flat" alt="tazbid" /> </p>
 
-- 💼 Currently working as an **Assistant Software Engineer** at BluBird Interactive Ltd.
 - 👨‍💻 Portfolio: [tazbid.github.io](https://tazbid.github.io)
 - 💬 Ask me about **PHP, Laravel, REST APIs, MySQL, Vue.js, JavaScript**
 - 🌱 Building scalable multi-tenant systems, backend APIs, and full-stack web apps
@@ -22,12 +21,12 @@
 
 <h3 align="left">Work Experience:</h3>
 
-- **Assistant Software Engineer** — BluBird Interactive Ltd. *(Aug 2024 – Present)*  
+- **Assistant Software Engineer** — BluBird Interactive Ltd. *(Aug 2024 – May 2026)*  
   REST APIs, performance optimization, third-party integrations, system updates
 - **Junior Software Engineer** — Annonlab *(Jun 2022 – Aug 2024)*  
   REST APIs, frontend support, PHP-JS (XML API) maintenance
 - **Junior Software Engineer** — CodersLab *(Apr 2021 – Apr 2022)*  
-  Laravel, Blade, JSON APIs for React-Laravel apps
+  Laravel, Blade, JSON APIs for web apps
 
 <h3 align="left">Featured Projects:</h3>
 
@@ -45,7 +44,6 @@
     <td><a href="https://laravel.com/" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"></a></td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"></a></td>
     <td><a href="https://vuejs.org/" title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"></a></td>
-    <td><a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"></a></td>
     <td><a href="https://jquery.com/" title="jQuery"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" alt="jQuery"></a></td>
     <td><a href="https://www.w3.org/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"></a></td>
     <td><a href="https://www.w3schools.com/css/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"></a></td>
@@ -67,18 +65,3 @@
     <td><a href="https://getcomposer.org/" title="Composer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="40" height="40" alt="Composer"></a></td>
   </tr>
 </table>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tazbid&show_icons=true&theme=tokyonight&hide_border=true" alt="tazbid stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tazbid&theme=tokyonight&hide_border=true" alt="tazbid streak" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazbid&layout=compact&theme=tokyonight&hide_border=true" alt="tazbid top languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tazbid&theme=react-dark" alt="tazbid activity graph" />
-</p>
