@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Tazbid Hossain 👋
 
-<!--
-**tazbid/tazbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building web apps, tools, and systems across PHP, C#, C++, and JavaScript.
 
-Here are some ideas to get you started:
+### Featured projects
+- **[E-commerceSite](https://github.com/tazbid/E-commerceSite)** — Laravel e-commerce with admin backend, cart, and orders
+- **[OnlineBookStore](https://github.com/tazbid/OnlineBookStore)** — Qt + C++ bookstore inventory with SQLite
+- **[EmployeeManagement](https://github.com/tazbid/EmployeeManagement)** — ASP.NET Core employee management system
+- **[iina-subrotate](https://github.com/tazbid/iina-subrotate)** — IINA plugin that rotates subtitles to match video orientation
+- **[tazbid.github.io](https://github.com/tazbid/tazbid.github.io)** — Personal portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+`PHP` `Laravel` `C#` `ASP.NET` `C++` `Qt` `JavaScript` `MySQL` `SQLite`
+
+### Connect
+- Portfolio: [tazbid.github.io](https://tazbid.github.io)
+- GitHub: [github.com/tazbid](https://github.com/tazbid)
