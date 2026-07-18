@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" fill="none">
+  <rect width="900" height="420" rx="16" fill="#0f172a"/>
+  <text x="32" y="42" fill="#f8fafc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">Core skills</text>
+  <text x="32" y="66" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Based on hands-on project and work experience</text>
+
+  <!-- helper: bar track + fill -->
+  <!-- PHP 80% -->
+  <text x="32" y="110" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">PHP</text>
+  <rect x="180" y="96" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="96" width="512" height="16" rx="8" fill="#2dd4bf"/>
+  <text x="840" y="110" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">80%</text>
+
+  <!-- Laravel 80% -->
+  <text x="32" y="150" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">Laravel</text>
+  <rect x="180" y="136" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="136" width="512" height="16" rx="8" fill="#f43f5e"/>
+  <text x="840" y="150" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">80%</text>
+
+  <!-- REST API 80% -->
+  <text x="32" y="190" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">REST APIs</text>
+  <rect x="180" y="176" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="176" width="512" height="16" rx="8" fill="#38bdf8"/>
+  <text x="840" y="190" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">80%</text>
+
+  <!-- MySQL 80% -->
+  <text x="32" y="230" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">MySQL</text>
+  <rect x="180" y="216" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="216" width="512" height="16" rx="8" fill="#fbbf24"/>
+  <text x="840" y="230" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">80%</text>
+
+  <!-- JavaScript 60% -->
+  <text x="32" y="270" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">JavaScript</text>
+  <rect x="180" y="256" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="256" width="384" height="16" rx="8" fill="#a78bfa"/>
+  <text x="840" y="270" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">60%</text>
+
+  <!-- Vue.js 60% -->
+  <text x="32" y="310" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">Vue.js</text>
+  <rect x="180" y="296" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="296" width="384" height="16" rx="8" fill="#34d399"/>
+  <text x="840" y="310" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">60%</text>
+
+  <!-- Docker 40% -->
+  <text x="32" y="350" fill="#e2e8f0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">Docker</text>
+  <rect x="180" y="336" width="640" height="16" rx="8" fill="#1e293b"/>
+  <rect x="180" y="336" width="256" height="16" rx="8" fill="#60a5fa"/>
+  <text x="840" y="350" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="13">40%</text>
+
+  <text x="32" y="395" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Also: Swagger · Redis · Git · Nginx · Apache · Postman · Stripe · Composer · MS SQL · SQLite</text>
+</svg>

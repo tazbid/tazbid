@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- abstract network nodes -->
+  <circle cx="980" cy="70" r="6" fill="#2dd4bf" fill-opacity="0.9"/>
+  <circle cx="1080" cy="120" r="5" fill="#38bdf8" fill-opacity="0.8"/>
+  <circle cx="1020" cy="200" r="7" fill="#a78bfa" fill-opacity="0.75"/>
+  <circle cx="1120" cy="230" r="4" fill="#2dd4bf" fill-opacity="0.7"/>
+  <circle cx="940" cy="180" r="4" fill="#38bdf8" fill-opacity="0.6"/>
+  <line x1="980" y1="70" x2="1080" y2="120" stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="2"/>
+  <line x1="1080" y1="120" x2="1020" y2="200" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="2"/>
+  <line x1="1020" y1="200" x2="1120" y2="230" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="2"/>
+  <line x1="1020" y1="200" x2="940" y2="180" stroke="#2dd4bf" stroke-opacity="0.25" stroke-width="2"/>
+  <line x1="980" y1="70" x2="940" y2="180" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="2"/>
+
+  <!-- left accent bar -->
+  <rect x="0" y="0" width="10" height="320" fill="url(#accent)"/>
+
+  <text x="64" y="118" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="3">SOFTWARE ENGINEER</text>
+  <text x="64" y="175" fill="#f8fafc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="700">Meer Tazbid Hossain</text>
+  <text x="64" y="220" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20">PHP · Laravel · REST APIs · Multi-tenant systems</text>
+
+  <!-- pills -->
+  <rect x="64" y="250" rx="16" ry="16" width="150" height="32" fill="#0f766e" fill-opacity="0.45" stroke="#2dd4bf" stroke-opacity="0.5"/>
+  <text x="139" y="271" text-anchor="middle" fill="#99f6e4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Chittagong, BD</text>
+
+  <rect x="230" y="250" rx="16" ry="16" width="170" height="32" fill="#1e3a5f" fill-opacity="0.7" stroke="#38bdf8" stroke-opacity="0.45"/>
+  <text x="315" y="271" text-anchor="middle" fill="#bae6fd" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Open to opportunities</text>
+</svg>
