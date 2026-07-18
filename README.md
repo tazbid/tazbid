@@ -25,30 +25,11 @@ I care about clear APIs, safe data handling between tenants, and systems that st
 
 ---
 
-## How multi-tenant systems fit together
-
-This is a simple picture of the kind of backend I have worked on — several clients (tenants) share one application, but their data stays separated.
-
-<div align="center">
-  <img src="assets/architecture.svg" alt="Diagram: tenants connect to Laravel API, which uses MySQL, Redis, and Swagger" width="100%" />
-</div>
-
-**In plain words:**  
-Users from different companies hit the same Laravel API. The app checks who they are, then reads/writes only their own data in MySQL. Redis helps with speed and background jobs. Swagger documents the API so other developers can use it safely.
-
----
-
 ## Career path
 
 <div align="center">
   <img src="assets/timeline.svg" alt="Career timeline: CodersLab, Annonlab, BluBird Interactive" width="100%" />
 </div>
-
-| When | Where | What I did |
-|------|--------|------------|
-| Aug 2024 – May 2026 | **BluBird Interactive Ltd.** · Assistant Software Engineer | Improved REST APIs, fixed bugs, optimized performance, integrated third-party services |
-| Jun 2022 – Aug 2024 | **Annonlab** · Junior Software Engineer | Built REST APIs, supported frontend bug fixing, maintained a PHP–JS (XML API) project |
-| Apr 2021 – Apr 2022 | **CodersLab** · Junior Software Engineer (part-time) | Built Laravel + Blade apps and JSON APIs |
 
 ---
 

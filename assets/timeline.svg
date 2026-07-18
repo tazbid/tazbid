@@ -11,7 +11,7 @@
   <circle cx="140" cy="160" r="12" fill="#0f172a" stroke="#a78bfa" stroke-width="4"/>
   <circle cx="140" cy="160" r="5" fill="#a78bfa"/>
   <text x="140" y="110" text-anchor="middle" fill="#c4b5fd" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">CodersLab</text>
-  <text x="140" y="130" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Jr. Engineer</text>
+  <text x="140" y="130" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">Jr. Software Engineer</text>
   <text x="140" y="200" text-anchor="middle" fill="#64748b" font-family="ui-monospace, monospace" font-size="11">2021–2022</text>
   <text x="140" y="220" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">Laravel · APIs</text>
 
@@ -19,7 +19,7 @@
   <circle cx="400" cy="160" r="12" fill="#0f172a" stroke="#38bdf8" stroke-width="4"/>
   <circle cx="400" cy="160" r="5" fill="#38bdf8"/>
   <text x="400" y="110" text-anchor="middle" fill="#7dd3fc" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="600">Annonlab</text>
-  <text x="400" y="130" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">Jr. Engineer</text>
+  <text x="400" y="130" text-anchor="middle" fill="#94a3b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">Jr. Software Engineer</text>
   <text x="400" y="200" text-anchor="middle" fill="#64748b" font-family="ui-monospace, monospace" font-size="11">2022–2024</text>
   <text x="400" y="220" text-anchor="middle" fill="#64748b" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11">REST · PHP-JS</text>
 
